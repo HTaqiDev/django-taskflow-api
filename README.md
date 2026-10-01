@@ -2,7 +2,7 @@
 
 A production-ready, clean-architecture RESTful API built with **Python 3.12, Django 4.2, and Django REST Framework (DRF)**. Designed for secure, scalable task management with token-based authentication, filtering, pagination, and automated unit testing.
 
-Developed by **[Hossein Taghi (Htaghiii)](https://github.com/Htaghiii)**.
+Developed by **[Hossein Taghi (HTaqiDev)](https://github.com/HTaqiDev)**.
 
 ---
 
@@ -51,7 +51,7 @@ django-taskflow-api/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Htaghiii/django-taskflow-api.git
+git clone https://github.com/HTaqiDev/django-taskflow-api.git
 cd django-taskflow-api
 ```
 
@@ -147,6 +147,6 @@ GET /api/tasks/?search=portfolio
 ## 👨‍💻 Author
 
 **Hossein Taghi**  
-- **GitHub:** [@Htaghiii](https://github.com/Htaghiii)  
+- **GitHub:** [@HTaqiDev](https://github.com/HTaqiDev)  
 - **Role:** Computer Science Student & Backend Developer  
 - **Specialization:** Python, Django, REST APIs, Web Architecture
